@@ -22,9 +22,9 @@ De nombreuses banques et systèmes financiers exigent désormais que les fichier
 
 ## Déploiement
 
-Ce projet est déployé avec GitHub Pages et est accessible [ici](https://VOTRE-NOM-UTILISATEUR.github.io/Sepa_git/).
+Ce projet est déployé avec GitHub Pages et est accessible [ici](https://compta03832.github.io/sepa_003/).
 
-**Note** : N'oubliez pas de remplacer `VOTRE-NOM-UTILISATEUR` par votre nom d'utilisateur GitHub dans le lien ci-dessus.
+
 
 ## Licence
 
