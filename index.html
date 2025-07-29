@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Convertisseur SEPA XML</title>
+    <link rel="icon" href="logo.jpg" type="image/jpeg">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Convertisseur de fichiers SEPA</h1>
+        <p>Mettez à jour vos fichiers SEPA de la version pain.001.001.02 à pain.001.001.03.</p>
+        
+        <div class="converter-box">
+            <label for="xmlFileInput">1. Choisissez un fichier XML :</label>
+            <input type="file" id="xmlFileInput" accept=".xml">
+            
+            <button id="convertBtn">2. Convertir le fichier</button>
+            
+            <div id="resultArea">
+                <!-- Le lien de téléchargement apparaîtra ici -->
+            </div>
+            
+            <div id="statusMessage"></div>
+        </div>
+        <footer class="footer">
+            <p>&copy; 2025 MultiBrasServices. Tous droits réservés.</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
